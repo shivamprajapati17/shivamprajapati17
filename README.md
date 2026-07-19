@@ -140,10 +140,17 @@ Analytics & Automation
 
 # 📫 Connect
 
-- 🌐 Website: https://securithm.vercel.app
-- 💼 LinkedIn: https://linkedin.com/in/shivam-prajapati-551162302/
-- 📧 Email: shivamprajapati8451@gmail.com
-- 🐙 GitHub: https://github.com/shivamprajapati17
+<p align="center">
+  <a href="mailto:shivamprajapati8451@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF90E8?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivam-prajapati-551162302/">
+    <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://leetcode.com/u/shivamprajapati17">
+    <img src="https://img.shields.io/badge/LeetCode-FDF2B5?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
