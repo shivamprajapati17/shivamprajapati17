@@ -113,23 +113,16 @@ Analytics & Automation
 
 ---
 
-# 📈 GitHub Stats
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamprajapati17&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamprajapati17&layout=compact&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamprajapati17&theme=tokyonight)
-```
-
+# 🐍 Contribution Snake
 ---
 
-# 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anayshah13&bg_color=BEE7E8&color=000000&line=000000&point=FF5722&area=true&hide_border=false&border_color=000000&border_radius=0" width="100%" />
+</p>
 
-```md
-"https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-```
+<p align="center">
+  <img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
