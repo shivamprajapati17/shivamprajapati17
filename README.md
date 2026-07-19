@@ -117,7 +117,7 @@ Analytics & Automation
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anayshah13&bg_color=BEE7E8&color=000000&line=000000&point=FF5722&area=true&hide_border=false&border_color=000000&border_radius=0" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamprajapati17&bg_color=BEE7E8&color=000000&line=000000&point=FF5722&area=true&hide_border=false&border_color=000000&border_radius=0" width="100%" />
 </p>
 
 <p align="center">
