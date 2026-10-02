@@ -36,15 +36,6 @@ Building AI Agents, Web3 Infrastructure, Security Products and Open Source Tools
 
 AI-powered security platform for developers.
 
-Features:
-
-- API Security
-- AI Detection
-- SDK
-- Dashboard
-- Automation
-- Authentication
-
 ---
 
 ## 🤖 AI Agents
