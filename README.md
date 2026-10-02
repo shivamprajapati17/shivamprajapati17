@@ -23,7 +23,7 @@ Building AI Agents, Web3 Infrastructure, Security Products and Open Source Tools
 - 🎂 18 Years Old
 - 📍 Mumbai, India
 - 🤖 Building AI Agents & AI Automation
-- 🔐 Creator of **Securithm**
+- 🔐 Creator of **Shipressure**
 - ⛓️ Exploring Solana, Ethereum & Web3
 - 🌱 Learning AI DevOps & Cloud
 - 🤝 Open to Internships, Freelance & Collaborations
@@ -95,9 +95,9 @@ Solana • Ethereum • Anchor • Hardhat
 
 # 🌟 Featured Projects
 
-## 🔐 Securithm
+## 🔐 Tipchain
 
-AI Security Platform for Developers
+Tipping Crypto Platform
 
 ## 🤖 AI Automation
 
@@ -112,6 +112,8 @@ Developer Toolkit
 Analytics & Automation
 
 ---
+
+<a href="https://u8views.com/github/shivamprajapati17"><img src="https://u8views.com/api/v1/github/profiles/187189730/views/day-week-month-total-count.svg"></a>
 
 # 🐍 Contribution Snake
 ---
